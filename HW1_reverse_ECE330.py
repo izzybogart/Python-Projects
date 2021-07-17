@@ -1,3 +1,4 @@
+#code takes a user inputed integer and returns a different integer with the digits of the inputed integer reversed
 #64 bit interger range is -9223372036775808 to 9223372036775807
 print("Please enter in an integer")
 x = int(input())
